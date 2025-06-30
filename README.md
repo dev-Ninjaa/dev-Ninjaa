@@ -24,7 +24,7 @@ I’m **Ayush** — a developer and independent researcher focused on building i
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,python,c,cpp,js,ts,react,nextjs,nodejs,mongodb,tailwind,docker,linux,git,unreal,postgres,tensorflow,pytorch,html,css,kotlin,vscode,npm,vite,photoshop,github,discord,instagram" />
+  <img src="https://skillicons.dev/icons?i=rust,python,c,cpp,js,ts,react,nextjs,nodejs,mongodb,tailwind,docker,linux,git,unreal,postgres,tensorflow,pytorch,html,css,kotlin,vscode,npm,vite,photoshop,github,discord,instagram,arch,ubuntu" />
 </p>
 
 ---
