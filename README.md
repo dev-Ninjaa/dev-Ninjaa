@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&color=00FFFF&width=650&lines=Ayush+%E2%80%A2+Developer+%26+Researcher;Focused.+Quiet.+Relentless.;Engineering+Systems+from+Silence" alt="Typing SVG" />
-</p>
+<h2 align="center">Ayush • Developer & Researcher</h2>
+<p align="center"><i>Focused. Quiet. Relentless.</i></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Rust-OS%20Developer-%23f74c00?style=flat&logo=rust&logoColor=white" />
@@ -25,7 +24,7 @@ I’m **Ayush** — a developer and independent researcher focused on building i
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,python,c,cpp,js,ts,react,nextjs,nodejs,mongodb,tailwind,docker,linux,git,unreal,postgres,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=rust,python,c,cpp,js,ts,react,nextjs,nodejs,mongodb,tailwind,docker,linux,git,unreal,postgres,tensorflow,pytorch,html5,css3,kotlin,kalilinux,wireshark,nmap" />
 </p>
 
 ---
