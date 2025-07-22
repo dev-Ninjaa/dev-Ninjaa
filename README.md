@@ -1,7 +1,3 @@
-<p align="center">
-  <img width="1000" src="https://github.com/AaYuSh11233/AaYuSh11233/assets/1206493/20ebd0ac-3e85-432a-a3ac-c12319c7db83" />
-</p>
-
 <h2 align="center">Ayush • Developer & Researcher</h2>
 <p align="center"><i>Focused. Quiet. Relentless.</i></p>
 
