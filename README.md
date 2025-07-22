@@ -1,4 +1,4 @@
-![Metrics](./metrics.svg)
+![Metrics](./github-metrics.svg)
 
 <h2 align="center">Ayush • Developer & Researcher</h2>
 <p align="center"><i>Focused. Quiet. Relentless.</i></p>
