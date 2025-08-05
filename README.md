@@ -42,7 +42,7 @@ I’m **Ayush** — a developer and independent researcher focused on building i
 | 📄 **Brefify** | Chrome extension to summarize web pages with AI chat |
 | 🎧 **VibeZ** | Clean Spotify-style music player with playlist & visual FX |
 
-> 🔗 *More in [pinned repositories](https://github.com/AaYuSh11233?tab=repositories)*
+> 🔗 *More in [pinned repositories](https://github.com/dev-Ninjaa?tab=repositories)*
 
 ---
 
@@ -58,11 +58,11 @@ I’m **Ayush** — a developer and independent researcher focused on building i
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AaYuSh11233&theme=github-dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=dev-Ninjaa&theme=github-dark&hide_border=true" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=AaYuSh11233&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-Ninjaa&show_icons=true&theme=github_dark&hide_border=true" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaYuSh11233&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-Ninjaa&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
