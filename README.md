@@ -67,10 +67,11 @@ I’m **Ayush** — a developer and independent researcher focused on building i
 
 ---
 
-## 🕶️ Philosophy
+## Daily Quote
 
-> *Let the noise chase fame.  
-Let my silence build systems.*
+<!--START_QUOTE-->
+> Your quote will appear here
+<!--END_QUOTE-->
 
 <p align="center">
   <i>More code. Less commentary. Always building.</i>
