@@ -67,11 +67,8 @@ I’m **Ayush** — a developer and independent researcher focused on building i
 
 ---
 
-## Daily Quote
-
-<!--START_QUOTE-->
-> Your quote will appear here
-<!--END_QUOTE-->
+## Philosophy
+> The Good and Bad thing about Time is It Changes.
 
 <p align="center">
   <i>More code. Less commentary. Always building.</i>
