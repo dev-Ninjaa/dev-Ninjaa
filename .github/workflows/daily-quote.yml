@@ -12,6 +12,8 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
+        with:
+          persist-credentials: true   # allows pushing back using GITHUB_TOKEN
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -41,7 +43,9 @@ jobs:
               f.write(new_content)
           EOF
 
-      - name: Commit changes
+      - name: Commit and push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
