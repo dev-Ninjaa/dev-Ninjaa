@@ -31,18 +31,16 @@ Passionate about building **from scratch** — whether it’s an operating syste
 
 ---
 
-## 🚀 Featured Projects  
+### 🚀 Featured Projects
 
 | Project | Description |
 |---------|-------------|
-| 🖥️ **nInjaOS** | Rust-based OS with Kali-style terminal + macOS-inspired GUI (bare-metal) |
-| 🧠 **Luna AI** | Deep learning assistant with multimodal vision, speech, and task automation |
-| 🎙️ **HotWord** | Fully trainable custom wake-word detection system |
-| 💊 **PrescriptAI** | SaaS for intelligent medical prescription generation (NLP-driven) |
-| 🕹️ **Elementalist Ascent** | GPU-heavy UE5 RPG with elemental combat & boss battles |
-| 💬 **Chill-Chat** | MERN + Socket.io real-time messaging with smooth UX |
-| 📄 **Brefify** | Chrome extension to summarize websites with AI-powered chat |
-| 🎧 **VibeZ** | Spotify-style music player with playlists & visual effects |
+| 🤖 **Vortex-AI** | Personal desktop AI assistant that integrates voice, vision, and smart task automation. |
+| 🧠 **AI-ML-Projects** | A large collection of advanced ML/DL/NLP/CV/GNN projects — a complete AI/ML hub. |
+| 🔬 **EntangleMe** | Quantum teleportation-based chat app using **Qiskit + Classiq** with a web interface. |
+| 📝 **Kollab** | Real-time collaborative document editor with live presence, comments, and modern UI. |
+| ⚡ **DevCLI** | Extensible developer command-line tool written in Rust, combining Git, Node, Rust, and Python. |
+| 🎙️ **Blink-Speech** | Assistive communication tool that converts eye blinks & gaze gestures into speech. |
 
-🔗 *Explore more in my [pinned repositories](https://github.com/dev-Ninjaa?tab=repositories)*  
+🔗 *Explore more in my [Repositories](https://github.com/dev-Ninjaa?tab=repositories)*  
 
