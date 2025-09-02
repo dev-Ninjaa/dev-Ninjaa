@@ -1,75 +1,48 @@
-<h2 align="center">Ayush • Developer & Researcher</h2>
-<p align="center"><i>Focused. Quiet. Relentless.</i></p>
+<h1 align="center">Ayush Sarkar • Developer & Researcher</h1>
+<p align="center"><i>Quiet focus. Relentless execution.</i></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Rust-OS%20Developer-%23f74c00?style=flat&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-Consciousness%20Researcher-%2300d8d6?style=flat&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-Systems%20%26%20OS-%23f74c00?style=flat&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-Research%20%26%20ML-%2300d8d6?style=flat&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/GameDev-UE5%20%7C%20RPGs-%238247E3?style=flat&logo=unrealengine&logoColor=white" />
 </p>
 
 ---
 
-## 🧭 About Me
+## 🧭 About Me  
 
-I’m **Ayush** — a developer and independent researcher focused on building intelligent systems, immersive tools, and low-level software from scratch.
+I’m **Ayush** — a developer, researcher, and student leader working across **AI, OS, Game, and Full-Stack Development**.  
+Passionate about building **from scratch** — whether it’s an operating system, a neural architecture, a game, an app or an immersive RPG.  
 
-- 🎓 B.Tech in CSE (AI & ML)
-- 🧠 Researching AI Consciousness with Mathematics & CS faculties
-- 🧰 Developing OSes, AI Assistants, Game Engines, Full-Stack Platforms
-- 📚 Self-taught in systems programming, machine learning & deep tech
-- 🧘 Practicing minimalist engineering — silence over noise, depth over trend
+- 🎓 **B.Tech in CSE (AI & ML)**  
+- 🤝 **Google Student Ambassador ’25**  
+- 🏆 **4× Hackathon Winner (National & International)**  
+- 🧠 Researching **AI Consciousness** with CS & Mathematics faculties  
+- 🔬 Projects in **OS, AI Assistants, Game Engines, and Full-Stack Systems**  
+- 🌱 **Full time Camper || Part time Engineering**  
 
 ---
 
-## 🛠️ Languages & Tools
+## ⚡ Skills & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,python,c,cpp,js,ts,react,nextjs,nodejs,mongodb,tailwind,docker,linux,git,unreal,postgres,tensorflow,pytorch,html,css,kotlin,vscode,npm,vite,photoshop,github,discord,instagram,arch,ubuntu" />
+  <img src="https://skillicons.dev/icons?i=rust,python,c,cpp,js,ts,react,nextjs,nodejs,mongodb,tailwind,docker,linux,git,unreal,postgres,tensorflow,pytorch,html,css,kotlin,vscode,npm,vite,photoshop,github,discord,arch,ubuntu" />
 </p>
 
 ---
 
-### 📂 Key Projects
+## 🚀 Featured Projects  
 
 | Project | Description |
-|--------|-------------|
-| 🖥️ **nInjaOS** | Rust-based OS with Kali terminal & macOS-style GUI *(Low-level, bare-metal)* |
-| 🧠 **Luna AI** | Deep learning assistant with vision, voice, and task automation |
-| 🎙️ **HotWord** | Custom wake-word detection system — fully trainable |
-| 💊 **PrescriptAI** | Intelligent SaaS for prescription generation using NLP |
-| 🕹️ **Elementalist Ascent** | GPU-heavy UE5 jungle RPG with elemental boss fights |
-| 💬 **Chill-Chat** | MERN + Socket.io real-time chat app with smooth UX |
-| 📄 **Brefify** | Chrome extension to summarize web pages with AI chat |
-| 🎧 **VibeZ** | Clean Spotify-style music player with playlist & visual FX |
+|---------|-------------|
+| 🖥️ **nInjaOS** | Rust-based OS with Kali-style terminal + macOS-inspired GUI (bare-metal) |
+| 🧠 **Luna AI** | Deep learning assistant with multimodal vision, speech, and task automation |
+| 🎙️ **HotWord** | Fully trainable custom wake-word detection system |
+| 💊 **PrescriptAI** | SaaS for intelligent medical prescription generation (NLP-driven) |
+| 🕹️ **Elementalist Ascent** | GPU-heavy UE5 RPG with elemental combat & boss battles |
+| 💬 **Chill-Chat** | MERN + Socket.io real-time messaging with smooth UX |
+| 📄 **Brefify** | Chrome extension to summarize websites with AI-powered chat |
+| 🎧 **VibeZ** | Spotify-style music player with playlists & visual effects |
 
-> 🔗 *More in [pinned repositories](https://github.com/dev-Ninjaa?tab=repositories)*
+🔗 *Explore more in my [pinned repositories](https://github.com/dev-Ninjaa?tab=repositories)*  
 
----
-
-## 🧠 Current Focus
-
-- Reinventing OS UX from the bare-metal upward  
-- Building GPU-intensive immersive systems for games & tools  
-- Exploring modular neural architectures for AI consciousness  
-- Optimizing full-stack systems, protocols, and dev environments
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=dev-Ninjaa&theme=github-dark&hide_border=true" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-Ninjaa&show_icons=true&theme=github_dark&hide_border=true" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-Ninjaa&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
-## Philosophy
-> The Good and Bad thing about Time is It Changes.
-
-<p align="center">
-  <i>More code. Less commentary. Always building.</i>
-</p>
