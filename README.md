@@ -1,5 +1,4 @@
-<h1 align="center">Ayush Sarkar • Developer & Researcher</h1>
-<p align="center"><i>Quiet focus. Relentless execution.</i></p>
+<h1 align="center">Ayush • Developer & Researcher</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Rust-Systems%20%26%20OS-%23f74c00?style=flat&logo=rust&logoColor=white" />
