@@ -10,14 +10,13 @@
 
 ## 🧭 About Me  
 
-I’m **Ayush** — a developer, researcher, and student leader working across **AI, OS, Game, and Full-Stack Development**.  
-Passionate about building **from scratch** — whether it’s an operating system, a neural architecture, a game, an app or an immersive RPG.  
+Hello, I’m **Ayush** — a developer, researcher, and Visonary working across **AI, OS, Game, and Full-Stack Development**.    
 
-- 🎓 **B.Tech in CSE (AI & ML)**  
+- 🎓 **B.Tech in CSE**  
 - 🤝 **Google Student Ambassador ’25**  
-- 🏆 **4× Hackathon Winner (National & International)**  
-- 🧠 Researching **AI Consciousness** with CS & Mathematics faculties  
-- 🔬 Projects in **OS, AI Assistants, Game Engines, and Full-Stack Systems**  
+- 🏆 **4 × Hackathon Winner**  
+- 🧠 Researching **AI Consciousness**  
+- 🔬 Projects in **OS, AI & ML, Game, and Full-Stack**  
 - 🌱 **Full time Camper || Part time Engineering**  
 
 ---
