@@ -24,7 +24,7 @@ Hello, I’m **Ayush** — a developer, researcher, and Visonary working across 
 ## ⚡ Skills & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,python,c,cpp,js,ts,react,nextjs,nodejs,mongodb,tailwind,docker,linux,git,unreal,postgres,tensorflow,pytorch,html,css,kotlin,vscode,npm,vite,photoshop,github,discord,arch,ubuntu" />
+  <img src="https://skillicons.dev/icons?i=rust,python,c,cpp,js,ts,react,nextjs,nodejs,mongodb,tailwind,docker,linux,git,unreal,postgres,tensorflow,pytorch,html,css,kotlin,vscode,npm,vite,photoshop,github,swift,go,arch,ubuntu" />
 </p>
 
 ---
