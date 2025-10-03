@@ -14,7 +14,8 @@ Hello, I’m **Ayush** — a developer, researcher, and Visonary working across 
 
 - 🎓 **B.Tech in CSE**  
 - 🤝 **Google Student Ambassador ’25**  
-- 🏆 **5 × Hackathon Winner and Finalist**  
+- 🏆 **6 × Hackathon Winner and Finalist**  
+- 🏆 **MLH Fellow**
 - 🧠 Researching **AI Consciousness**  
 - 🔬 Projects in **OS, AI & ML, Game, and Full-Stack**  
 - 🌱 **Full time Camper || Part time Engineering**  
