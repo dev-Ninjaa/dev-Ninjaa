@@ -16,6 +16,7 @@ Hello, I’m **Ayush** — a developer, researcher, and Visonary working across 
 - 🤝 **Google Student Ambassador ’25**  
 - 🏆 **6 × Hackathon Winner and Finalist**  
 - 🏆 **MLH Fellow (Fall '25)**
+- 🖥 **Upcoming Microsoft SWE Intern**
 - 🧠 Researching **AI Consciousness**  
 - 🔬 Projects in **OS, AI & ML, Game, and Full-Stack**  
 - 🌱 **Full time Camper || Part time Engineering**  
