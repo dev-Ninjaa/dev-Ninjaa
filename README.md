@@ -5,12 +5,12 @@ CS student building production-ready software in AI/ML, full-stack, and systems 
 ## Currently
 
 - Microsoft SWE Intern (Upcoming)
-- MLH Fellow '25 | Google Student Ambassador '25
-- Working on: [Nimbus](https://github.com/Recursion-Labs/Nimbus), [Brickchain](https://github.com/Recursion-Labs/Brickchain), [Care-LLM](https://github.com/dev-Ninjaa/PreScriptAI)
+- MLH Fellow '25 | Google Student Ambassador '25 | 6 x Hackathon Winner
+- Working on: [Nimbus](https://github.com/Recursion-Labs/Nimbus), [Brickchain](https://github.com/Recursion-Labs/Brickchain), [VeriChain](https://github.com/Recursion-Labs/verichain), [Mint](https://github.com/dev-Ninjaa/mint)
 
 ## Stack
 
-Python • TypeScript • Rust • C/C++ • PyTorch • React • Next.js
+Python • TypeScript • Rust • C/C++ • PyTorch • React • Next.js • PSQL • Tensorflow
 
 ---
 
