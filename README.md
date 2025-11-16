@@ -6,7 +6,7 @@ CS student building production-ready software in AI/ML, full-stack, and systems 
 
 - Microsoft SWE Intern (Upcoming)
 - MLH Fellow '25 | Google Student Ambassador '25 | 6 x Hackathon Winner
-- Working on: [Nimbus](https://github.com/Recursion-Labs/Nimbus), [Brickchain](https://github.com/Recursion-Labs/Brickchain), [VeriChain](https://github.com/Recursion-Labs/verichain), [Mint](https://github.com/dev-Ninjaa/mint)
+- Working on: [Nimbus](https://github.com/Recursion-Labs/Nimbus), [Brickchain](https://github.com/Recursion-Labs/Brickchain), [VeriChain](https://github.com/Recursion-Labs/verichain), [Mint](https://github.com/dev-Ninjaa/mint), [Kaizen](https://github.com/Recursion-Labs/kaizen)
 
 ## Stack
 
@@ -14,4 +14,4 @@ Python • TypeScript • Rust • C/C++ • PyTorch • React • Next.js • P
 
 ---
 
-[![GitHub](https://img.shields.io/badge/GitHub-dev--Ninjaa-%23181717?style=flat&logo=github)](https://github.com/dev-Ninjaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-dev--ayush-%230A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/dev-ayush)
+[![GitHub](https://img.shields.io/badge/GitHub-dev--Ninjaa-%23181717?style=flat&logo=github)](https://github.com/dev-Ninjaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-dev--ayush-%230A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/dev-ayush) [![Instagram](https://img.shields.io/badge/Instagram-dev--Ninjaa-%23181717?style=flat&logo=instagram)](https://www.instagram.com/_dev.ninja_/)
