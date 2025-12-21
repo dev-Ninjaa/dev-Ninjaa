@@ -4,8 +4,9 @@ CS student building production-ready software in AI/ML, full-stack, and systems 
 
 ## Currently
 
-- Microsoft SWE Intern (Upcoming)
-- MLH Fellow '25 | Google Student Ambassador '25 | 6 x Hackathon Winner
+- MLH Fellow '25 
+- Google Student Ambassador '25 
+- 6 x Hackathon Winner
 - Working on: [Nimbus](https://github.com/dev-Ninjaa/-nImbus), [Brickchain](https://github.com/Recursion-Labs/Brickchain), [VeriChain](https://github.com/Recursion-Labs/verichain), [Mint](https://github.com/dev-Ninjaa/mint), [Kaizen](https://github.com/Recursion-Labs/kaizen)
 
 ## Stack
