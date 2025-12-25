@@ -15,4 +15,4 @@ Python • TypeScript • Rust • C/C++ • PyTorch • React • Next.js • P
 
 ---
 
-[![GitHub](https://img.shields.io/badge/GitHub-dev--Ninjaa-%23181717?style=flat&logo=github)](https://github.com/dev-Ninjaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-dev--ayush-%230A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/dev-ayush)[![Portfolio](https://img.shields.io/badge/Portfolio-dev--ayush-%230A66C2?style=flat&logo=portfolio)](https://devninjaa.in/)
+[![GitHub](https://img.shields.io/badge/GitHub-dev--Ninjaa-%23181717?style=flat&logo=github)](https://github.com/dev-Ninjaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-dev--ayush-%230A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/dev-ayush)[![Portfolio](https://img.shields.io/badge/Portfolio-devninjaa-%230A66C2?style=flat&logo=portfolio)](https://devninjaa.in/)
