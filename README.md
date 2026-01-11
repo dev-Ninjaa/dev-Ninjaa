@@ -1,4 +1,4 @@
-# Ayush
+# [Ayush](https://devninjaa.in/)
 
 CS student building production-ready software in AI/ML, full-stack, and systems programming.
 
