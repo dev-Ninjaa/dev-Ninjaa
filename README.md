@@ -4,15 +4,14 @@ CS student building production-ready software in AI/ML, full-stack, and systems 
 
 ## Currently
 
-- MLH Fellow '25 
-- Google Student Ambassador '25 
-- 6 x Hackathon Winner
+- Backend | AI
+- 6 x Hackathons Winner
+- @Mlh fellow | Fall 25'
+- Google Students Ambassador 25'
+- Researching | AI Consciousness
+
 - Working on: [Nimbus](https://github.com/dev-Ninjaa/-nImbus), [Brickchain](https://github.com/Recursion-Labs/Brickchain), [VeriChain](https://github.com/Recursion-Labs/verichain), [Mint](https://github.com/dev-Ninjaa/mint), [Kaizen](https://github.com/Recursion-Labs/kaizen)
 
 ## Stack
 
-Python • TypeScript • Rust • C/C++ • PyTorch • React • Next.js • PSQL • Tensorflow
-
----
-
-[![GitHub](https://img.shields.io/badge/GitHub-dev--Ninjaa-%23181717?style=flat&logo=github)](https://github.com/dev-Ninjaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-dev--ayush-%230A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/dev-ayush)[![Portfolio](https://img.shields.io/badge/Portfolio-devninjaa-%230A66C2?style=flat&logo=portfolio)](https://devninjaa.in/)
+Python • TypeScript • Rust • C/C++ • PyTorch • React • Next.js • PSQL • Tensorflow • Java • Go • sklearn
