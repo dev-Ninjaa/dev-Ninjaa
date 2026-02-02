@@ -1,4 +1,4 @@
-## Hi, It's [Ayush](https://devninjaa.in/)
+## Hi, It's Ayush
 
 CS student building production-ready software in AI/ML, full-stack, and systems programming.
 
