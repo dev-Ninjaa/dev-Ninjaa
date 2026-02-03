@@ -10,7 +10,7 @@ CS student building production-ready software in AI/ML, full-stack, and systems 
 - Google Students Ambassador 25'
 - Researching | AI Consciousness
 
-- Working on: [Nimbus](https://github.com/dev-Ninjaa/-nImbus), [Brickchain](https://github.com/Recursion-Labs/Brickchain), [VeriChain](https://github.com/Recursion-Labs/verichain), [Mint](https://github.com/dev-Ninjaa/mint), [Kaizen](https://github.com/Recursion-Labs/kaizen)
+- Working on: [PlumNotes](https://github.com/dev-Ninjaa/PulmNotes), [Nimbus](https://github.com/dev-Ninjaa/-nImbus), [Brickchain](https://github.com/Recursion-Labs/Brickchain), [VeriChain](https://github.com/Recursion-Labs/verichain), [Mint](https://github.com/dev-Ninjaa/mint), [Kaizen](https://github.com/Recursion-Labs/kaizen)
 
 ## Stack
 
