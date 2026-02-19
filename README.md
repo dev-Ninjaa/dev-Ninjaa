@@ -4,7 +4,7 @@ CS student building production-ready software in AI/ML, full-stack, and systems 
 
 ## Currently
 
-- Backend | AI
+- Backend | AI | OS
 - 7 x Hackathons Winner
 - @Mlh fellow | Fall 25'
 - Google Students Ambassador 25'
